@@ -1,20 +1,20 @@
-# No-Reservations-Understanding-Consumer-Behavior-in-the-Hotel-Industry
+# Hotel Hunch: Understanding Consumer Behavior in the Hotel Industry
 
-#### Justin Chuderewicz, Mitchell Flattum, Andrew Hunter, William Peritz
+#### Authored by: Justin Chuderewicz, Mitchell Flattum, Andrew Hunter, William Peritz
 
 ## Regression Question
 
-Our analysis focused on answering a crucial question: **Which factors influence the number of nights a person will stay in hotels?** Understanding these factors is essential for the hotel industry, as it enables businesses to optimize pricing, marketing strategies, and promotions based on consumer behavior and macroeconomic conditions.
+Our analysis focused on answering a crucial question: **Which factors influence the number of nights a person will stay in hotels?** Understanding these factors is essential for the hotel industry as it enables businesses to optimize pricing, marketing strategies, and promotions based on consumer behavior and macroeconomic conditions.
 
-#### Stakeholders
+### Stakeholders
 
 Relevant stakeholders include:
 - **Hotel Management and Owners**: Directly impacted by booking habits and economic performance.
 - **Hotel Marketing Teams**: Need insights for effective campaign targeting.
-- **Hotel Financial Analysts**: Require understanding of customer behavior for financial planning and forecasting.
+- **Hotel Financial Analysts**: Require an understanding of customer behavior for financial planning and forecasting.
 - **Tourism Boards**: Interested in tourism trends and hotel occupancy for regional planning and development.
 
-#### Key Findings
+### Key Findings
 
 Through our analysis, we identified several key factors influencing the length of hotel stays:
 - **Factors Increasing Nights Stayed**:
@@ -23,19 +23,19 @@ Through our analysis, we identified several key factors influencing the length o
   - Longer time between booking and reservation date
 
 - **Factors Decreasing Nights Stayed**:
-  - **Consumer Price Index (CPI)**: Higher CPI for the hotel industry leads to shorter stays as consumers face higher costs.
-  - **Average Fuel Prices**: Increased fuel prices result in shorter stays due to higher travel costs.
+  - **Consumer Price Index (CPI)**: A higher CPI for the hotel industry leads to shorter stays as consumers face increased costs.
+  - **Average Fuel Prices**: Higher fuel prices result in shorter stays due to increased travel expenses.
 
-#### Recommendations
+### Recommendations
 
 1. **Adaptive Pricing Strategies**:
-   - Implement dynamic pricing based on factors affecting stay length. For instance, lower prices during periods when shorter stays are common to encourage longer reservations.
+   - Implement dynamic pricing based on factors affecting stay length. For example, lower prices during periods when shorter stays are common to encourage longer reservations.
 
 2. **Targeted Marketing Strategies**:
    - Adjust marketing efforts to appeal to demographics more likely to book longer stays. Allocate marketing budgets to align with periods of longer stays.
 
 3. **Tailored Packages**:
-   - Offer incentives like a free night with the purchase of several nights to encourage longer bookings.
+   - Offer incentives such as a free night with the purchase of several nights to encourage longer bookings.
 
 4. **Economic Impact Mitigation**:
    - Develop strategies to counteract economic downturns that lead to shorter stays, such as flexible pricing or special promotions during challenging times.
@@ -44,21 +44,21 @@ Through our analysis, we identified several key factors influencing the length o
 
 In addition to understanding stay lengths, our analysis addressed another crucial question: **Which factors influence hotel reservation cancellations?** Identifying predictors of cancellations can enhance economic and marketing strategies, improve customer segmentation, and boost operational efficiency.
 
-#### Stakeholders
+### Stakeholders
 
-The same stakeholders for the regression analysis are affected by cancellation factors:
+The same stakeholders for the regression analysis are also affected by cancellation factors:
 - **Hotel Management and Owners**
 - **Hotel Marketing Teams**
 - **Hotel Financial Analysts**
 - **Tourism Boards**
 
-#### Key Findings
+### Key Findings
 
 Our models, including Ridge and Lasso regression, Regression Trees, and Random Forests, revealed several key predictors of cancellations:
 - **Increase in Time Between Booking and Reservation**: Longer lead times increase the likelihood of cancellation.
 - **Deposit Type**: Nonrefundable deposits were found to lead to more cancellations, possibly due to changing circumstances or buyer’s remorse.
 
-#### Recommendations
+### Recommendations
 
 1. **Responsive Pricing Strategies**:
    - Adjust pricing based on cancellation predictors, potentially offering more flexible terms to reduce cancellations.
@@ -78,4 +78,3 @@ Our models, including Ridge and Lasso regression, Regression Trees, and Random F
 ### Conclusion
 
 This analysis provides valuable insights for stakeholders in the hospitality industry, offering ways to enhance economic performance, marketing strategies, and operational efficiency. By understanding both factors influencing stay lengths and reservation cancellations, hotels can better meet market demands and adapt to economic changes, leading to improved financial health and customer satisfaction.
-
