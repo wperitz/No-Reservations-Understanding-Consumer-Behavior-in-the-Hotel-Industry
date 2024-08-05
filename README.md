@@ -1,4 +1,4 @@
-# Hotel Hunch: Understanding Consumer Behavior in the Hotel Industry
+# # No Reservations: Understanding Consumer Behavior in the Hotel Industry
 
 #### Authored by: Justin Chuderewicz, Mitchell Flattum, Andrew Hunter, William Peritz
 
