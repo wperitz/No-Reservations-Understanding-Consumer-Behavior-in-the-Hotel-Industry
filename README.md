@@ -2,7 +2,7 @@
 
 #### Justin Chuderewicz, Mitchell Flattum, Andrew Hunter, William Peritz
 
-### Regression Question
+## Regression Question
 
 Our analysis focused on answering a crucial question: **Which factors influence the number of nights a person will stay in hotels?** Understanding these factors is essential for the hotel industry, as it enables businesses to optimize pricing, marketing strategies, and promotions based on consumer behavior and macroeconomic conditions.
 
@@ -40,22 +40,9 @@ Through our analysis, we identified several key factors influencing the length o
 4. **Economic Impact Mitigation**:
    - Develop strategies to counteract economic downturns that lead to shorter stays, such as flexible pricing or special promotions during challenging times.
 
-### Classification Question
+## Classification Question
 
 In addition to understanding stay lengths, our analysis addressed another crucial question: **Which factors influence hotel reservation cancellations?** Identifying predictors of cancellations can enhance economic and marketing strategies, improve customer segmentation, and boost operational efficiency.
-
-#### Motivation
-
-Understanding cancellation factors is vital for:
-- Adjusting prices based on customer likelihood to cancel.
-- Focusing advertising on demographics less likely to cancel.
-- Adapting pricing and marketing based on economic conditions to reduce cancellation rates.
-
-#### Insights from Previous Analysis
-
-Our models, including Ridge and Lasso regression, Regression Trees, and Random Forests, revealed several key predictors of cancellations:
-- **Increase in Time Between Booking and Reservation**: Longer lead times increase the likelihood of cancellation.
-- **Deposit Type**: Nonrefundable deposits were found to lead to more cancellations, possibly due to changing circumstances or buyer’s remorse.
 
 #### Stakeholders
 
@@ -64,6 +51,12 @@ The same stakeholders for the regression analysis are affected by cancellation f
 - **Hotel Marketing Teams**
 - **Hotel Financial Analysts**
 - **Tourism Boards**
+
+#### Key Findings
+
+Our models, including Ridge and Lasso regression, Regression Trees, and Random Forests, revealed several key predictors of cancellations:
+- **Increase in Time Between Booking and Reservation**: Longer lead times increase the likelihood of cancellation.
+- **Deposit Type**: Nonrefundable deposits were found to lead to more cancellations, possibly due to changing circumstances or buyer’s remorse.
 
 #### Recommendations
 
