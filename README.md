@@ -2,8 +2,6 @@
 
 #### Justin Chuderewicz, Mitchell Flattum, Andrew Hunter, William Peritz
 
-## Executive Summary
-
 ### Regression Question
 
 Our analysis focused on answering a crucial question: **Which factors influence the number of nights a person will stay in hotels?** Understanding these factors is essential for the hotel industry, as it enables businesses to optimize pricing, marketing strategies, and promotions based on consumer behavior and macroeconomic conditions.
