@@ -1,5 +1,7 @@
 # No-Reservations-Understanding-Consumer-Behavior-in-the-Hotel-Industry
 
+#### Justin Chuderewicz, Mitchell Flattum, Andrew Hunter, William Peritz
+
 ## Executive Summary
 
 ### Regression Question
